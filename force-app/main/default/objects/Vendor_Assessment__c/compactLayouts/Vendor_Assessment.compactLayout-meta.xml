@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Vendor_Assessment</fullName>
+    <fields>AccountRelationship__c</fields>
+    <fields>VA_AssessStatus__c</fields>
+    <fields>assesCandidate__c</fields>
+    <fields>VA_CandidateYN__c</fields>
+    <fields>VA_GBMHQ__c</fields>
+    <fields>TxnBaseline__c</fields>
+    <label>Vendor Assessment 레이아웃</label>
+</CompactLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>NAME</columns>
+    <columns>VA_AssessStatus__c</columns>
+    <columns>AccountRelationship__c</columns>
+    <columns>TxnBaseline__c</columns>
+    <columns>DTTxnBaseline__c</columns>
+    <columns>VA_CandidateYN__c</columns>
+    <columns>VA_AssessReason__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>모두</label>
+</ListView>
